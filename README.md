@@ -1,7 +1,8 @@
+## Name: ANDREW CLARK
 # Lab_05
 DOM manipulation
 
-Name: _______________________________________
+
 
 ## DUE: 15 Oct 2017 @ 11:59 pm
 
